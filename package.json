@@ -1,0 +1,17 @@
+{
+  "name": "mkapp-demo",
+  "version": "1.0.0",
+  "description": "A simple example app using `mkapp` build tool and components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mkapp",
+    "react",
+    "cli",
+    "condux"
+  ],
+  "author": "Ethan Ferrari <ethan@ethanferrari.com> (https://github.com/epferrari)",
+  "license": "MIT"
+}
